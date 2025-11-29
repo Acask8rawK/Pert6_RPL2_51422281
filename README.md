@@ -1,0 +1,1 @@
+Pada pertemauan 6 kami membuat program Java dinamis dengan konsep MVC (Model View Controller) dengan GUI untuk melakukan entry data , tanpa membuat database baru (menggunakan database lama , tabel baru)
